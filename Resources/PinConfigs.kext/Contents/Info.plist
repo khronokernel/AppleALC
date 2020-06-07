@@ -9058,6 +9058,28 @@
 					<key>AFGLowPowerState</key>
 					<data>AwAAAA==</data>
 					<key>Codec</key>
+					<string>Khronokernel - Conexant CX20724 patch for HP Elite X2 1012 G1</string>
+					<key>CodecID</key>
+					<integer>351359220</integer>
+					<key>ConfigData</key>
+					<data>
+					AXccEAF3HQEBdx4XAXcfkQF3DAIBpxwgAacd
+					AQGnHqYBpx+VAZccMAGXHRABlx6hAZcfBAFn
+					HEABZx0QAWceIQFnHwQBZwwCAYcc8AGHHQEB
+					hx7wAYcfQAHXHPAB1x0BAdce8AHXH0AB1wwC
+					Aecc8AHnHQEB5x7wAecfQAH3HPAB9x0BAfce
+					8AH3H0ACFxzwAhcdAQIXHvACFx9AAicc8AIn
+					HQECJx7wAicfQAInDAI=
+					</data>
+					<key>FuncGroup</key>
+					<integer>1</integer>
+					<key>LayoutID</key>
+					<integer>15</integer>
+				</dict>
+				<dict>
+					<key>AFGLowPowerState</key>
+					<data>AwAAAA==</data>
+					<key>Codec</key>
 					<string>Mirone - Conexant CX20724</string>
 					<key>CodecID</key>
 					<integer>351359220</integer>
